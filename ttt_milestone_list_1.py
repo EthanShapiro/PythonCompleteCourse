@@ -8,12 +8,22 @@ play = True
 playerPieces = ['x', 'o']
 
 
-def showBoard():
+def displayBoard():
     print("   1 2 3\n"
           "1 |{0}|{1}|{2}|\n"
           "2 |{3}|{4}|{5}|\n"
           "3 |{6}|{7}|{8}|".format(*[item for sublist in board for item in sublist])
           )
+
+
+def clearConsole():
+    print("\n"*20)
+
+
+def resetBoard():
+    for x in range(len(board)):
+        for y in range(len(board[x])):
+            board[x][y] = ' '
 
 
 def placePiece(piece, xPos, yPos):
@@ -33,33 +43,45 @@ def getNumOnBoard(posType):
         if pos <= 0:
             print("Please enter an number above 0")
             continue
+        elif pos > len(board):
+            print("That is not a space on the board!")
+            continue
         else:
             return pos-1
 
 
 def checkForWin():
-    threeInARow = lambda x, y, z: True if x == y == z and x != ' ' else False
+    threeInARow = lambda x, y, z: x if x == y == z and x != ' ' else ' '
 
-    win = False
+    winner = ' '
 
+    # Check Rows
     for i in range(len(board)):
-        win = threeInARow(*board[i][::])
-        if win:
-            return win
+        winner = threeInARow(*board[i][::])
+        if winner != ' ':
+            return winner
 
+    # Check Columns
     for i in range(len(board)):
-        win = threeInARow(*[x[i] for x in board])
-        if win:
-            return win
+        winner = threeInARow(*[x[i] for x in board])
+        if winner != ' ':
+            return winner
 
-    win = threeInARow(*[board[i][i] for i in range(len(board))])
-    if win:
-        return win
-    win = threeInARow(*[board[i][i] for i in range(len(board)-1, 0-1, -1)])
-    if win:
-        return win
+    # Check Diagonal top right to bottom left
+    winner = threeInARow(*[board[i][i] for i in range(len(board))])
+    if winner != ' ':
+        return winner
 
-    return win
+    # Check Diagonal top left to bottom right
+    winner = threeInARow(*[board[i][len(board)-1-i] for i in range(len(board))])
+    if winner != ' ':
+        return winner
+
+    # Check for Tie
+    if not any(' ' in sublist for sublist in board):
+        winner = 'tie'
+
+    return winner
 
 
 def changePlayerIcons():
@@ -101,13 +123,30 @@ def playAgain():
         else:
             return True
 
+def endGameText(winner):
+    if winner == 'tie':
+        print("It's a tie!")
+    else:
+        print("The winner is {0}".format(winner))
+
 changePlayerIcons()
 checkForWin()
 
 while play:
-    showBoard()
+    displayBoard()
     xPos = getNumOnBoard('x')
     yPos = getNumOnBoard('y')
-    placePiece(playerPieces[playerTurn-1], xPos, yPos)
-    if checkForWin():
+
+    while not placePiece(playerPieces[playerTurn-1], xPos, yPos):
+        xPos = getNumOnBoard('x')
+        yPos = getNumOnBoard('y')
+
+    if checkForWin() == playerPieces[playerTurn-1] or checkForWin() == 'tie':
+        endGameText(checkForWin())
         play = playAgain()
+        if play:
+            resetBoard()
+    if playerTurn == 2:
+        playerTurn = 1
+    else:
+        playerTurn += 1
