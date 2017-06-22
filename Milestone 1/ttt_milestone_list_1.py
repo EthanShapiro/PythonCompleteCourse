@@ -27,6 +27,9 @@ def resetBoard():
 
 
 def placePiece(piece, xPos, yPos):
+    if 0 < xPos or yPos < len(board):
+        return False
+
     if board[yPos][xPos] == ' ':
         board[yPos][xPos] = piece
         return True
@@ -114,7 +117,7 @@ def playAgain():
             print("Sorry I didn't understand that")
             continue
         if len(play) > 1 or len(play) <= 0:
-            print("Sorry, your icon needs to be one character long")
+            print("Sorry, you may only enter y or n")
             continue
         elif play.lower() != 'y' and play.lower() != 'n':
             print("Please enter y or n")
@@ -137,15 +140,19 @@ while play:
     xPos = getNumOnBoard('x')
     yPos = getNumOnBoard('y')
 
+    # Makes sure the placement is valid, and if not it asks for a new input
     while not placePiece(playerPieces[playerTurn-1], xPos, yPos):
         xPos = getNumOnBoard('x')
         yPos = getNumOnBoard('y')
 
+    # Check for a win
     if checkForWin() == playerPieces[playerTurn-1] or checkForWin() == 'tie':
         endGameText(checkForWin())
         play = playAgain()
         if play:
             resetBoard()
+
+    # Set player
     if playerTurn == 2:
         playerTurn = 1
     else:
