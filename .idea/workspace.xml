@@ -2,64 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f45470a7-f370-4f02-b5f1-1aef7ba2ecce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced Python Modules/StringIO_module.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced Python Modules/counter_module.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced Python Modules/datetime_module.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced Python Modules/defaultdict_module.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced Python Modules/namedtuple_module.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced Python Modules/ordereddict_module.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced Python Modules/pdb_module.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced Python Modules/re_module.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced Python Modules/timeit_module.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced Python Objects and Data Structures/advanced_numbers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced Python Objects and Data Structures/advanced_sets.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced Python Objects and Data Structures/advanced_strings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Built-in Functions/all_any.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Built-in Functions/complex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Built-in Functions/enumerate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Built-in Functions/filter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Built-in Functions/functions_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Built-in Functions/map.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Built-in Functions/reduce.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Built-in Functions/zip.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorators/decorators_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorators/decorators_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorators/decorators_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorators/decorators_homework.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Errors and Exception Handling/errors_exceptions_homework.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Errors and Exception Handling/try_except_finally.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Classic Algorithms/BubbleSort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Classic Algorithms/Collatz Conjecture.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Classic Algorithms/HeapSort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Classic Algorithms/MergeSort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Classic Algorithms/QuickSort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Classic Algorithms/SieveOfEratosthenes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Files/HuffmanCoding.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Files/Quiz Maker.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Files/Zipper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Networking/Google Drive File Transfer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Networking/google_simple_api_access.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Networking/hello.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Numbers/Coin Flip Simulation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Numbers/DistanceBetweenTwoCities.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Text/Journal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/unitConverter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterators and Generators/iterators_generators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterators and Generators/iterators_generators_homework.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Milestone 2/Black Jack Design" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Milestone 2/Milestone_2_Black_Jack.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Milestone 2/black_jack.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Modules, Packages, and Imports/Modules and Packages.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Modules, Packages, and Imports/database.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Modules, Packages, and Imports/homework.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Milestone 1/TESTING.py" afterPath="$PROJECT_DIR$/TESTING.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Milestone 2/oop_class_2.py" afterPath="$PROJECT_DIR$/Object Oriented Programming/oop_class_2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Milestone 2/oop_homework.py" afterPath="$PROJECT_DIR$/Object Oriented Programming/oop_homework.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Milestone 2/oop_inheritance_4.py" afterPath="$PROJECT_DIR$/Object Oriented Programming/oop_inheritance_4.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Milestone 2/oop_method_3.py" afterPath="$PROJECT_DIR$/Object Oriented Programming/oop_method_3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Milestone 2/oop_objects_1.py" afterPath="$PROJECT_DIR$/Object Oriented Programming/oop_objects_1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Milestone 2/oop_special_methods_5.py" afterPath="$PROJECT_DIR$/Object Oriented Programming/oop_special_methods_5.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PythonCompleteCourse.iml" afterPath="$PROJECT_DIR$/.idea/PythonCompleteCourse.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Final_Capstone_Projects/Classic Algorithms/SieveOfEratosthenes.py" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Classic Algorithms/SieveOfEratosthenes.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,7 +19,7 @@
       <file leaf-file-name="Google Drive File Transfer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/Google Drive File Transfer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
+            <state relative-caret-position="1190">
               <caret line="38" column="56" lean-forward="false" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
@@ -85,8 +31,8 @@
       <file leaf-file-name="SieveOfEratosthenes.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Classic Algorithms/SieveOfEratosthenes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="1224">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -97,16 +43,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="discovery.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/googleapiclient/discovery.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2907">
-              <caret line="173" column="4" lean-forward="false" selection-start-line="173" selection-start-column="4" selection-end-line="173" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -182,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-214" />
     <option name="y" value="-8" />
     <option name="width" value="2576" />
@@ -203,8 +139,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,12 +157,6 @@
               <item name="PythonCompleteCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonCompleteCourse" type="462c0819:PsiDirectoryNode" />
               <item name="Final_Capstone_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Classic Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonCompleteCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonCompleteCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="Final_Capstone_Projects" type="462c0819:PsiDirectoryNode" />
               <item name="Networking" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -237,7 +167,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PyQtRandomness" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PyQtRandomness" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -443,19 +373,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
+    <frame x="-214" y="-8" width="3696" height="2148" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31849578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31849578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -610,13 +540,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-1098706483/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="517" column="6" lean-forward="true" selection-start-line="517" selection-start-column="4" selection-end-line="517" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-1098706483/builtins.py" />
     <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Classic Algorithms/MergeSort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -666,41 +590,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/GitHub/Box-Bot/data/greetings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="54" lean-forward="true" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/GitHub/Box-Bot/data/jokes.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/GitHub/Box-Bot/data/quotes.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/GitHub/Box-Bot/data/salutations.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/GitHub/Box-Bot/data/commands.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/Box-Bot/data/greetings.json" />
+    <entry file="file://$USER_HOME$/Documents/GitHub/Box-Bot/data/jokes.json" />
+    <entry file="file://$USER_HOME$/Documents/GitHub/Box-Bot/data/quotes.json" />
+    <entry file="file://$USER_HOME$/Documents/GitHub/Box-Bot/data/salutations.json" />
+    <entry file="file://$USER_HOME$/Documents/GitHub/Box-Bot/data/commands.json" />
     <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Numbers/DistanceBetweenTwoCities.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -722,13 +616,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/zipfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="980" column="8" lean-forward="false" selection-start-line="980" selection-start-column="8" selection-end-line="980" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/zipfile.py" />
     <entry file="file://$PROJECT_DIR$/Final Capstone Projects/Files/testfile.txt" />
     <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Files/testfile.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -766,13 +654,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/client_secrets.json" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/pydoc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/pydoc.py" />
     <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/client_secret.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -787,14 +669,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/googleapiclient/discovery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2907">
-          <caret line="173" column="4" lean-forward="false" selection-start-line="173" selection-start-column="4" selection-end-line="173" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/googleapiclient/discovery.py" />
     <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/hello.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -805,7 +680,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/Google Drive File Transfer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
+        <state relative-caret-position="1190">
           <caret line="38" column="56" lean-forward="false" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
@@ -815,8 +690,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Classic Algorithms/SieveOfEratosthenes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="1224">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
