@@ -1,0 +1,66 @@
+Black Jack
+
+Requirements:
+    Text Based
+    Player plays against the dealer
+    Have a deck of 52 cards with 4 of each card
+
+    The Player
+        Keep track of:
+            Money
+            Wins
+            Losses
+            Current cards
+         Player must be able to:
+            Bet with their money
+            Hit or stay
+            Play again or quit
+
+        Player beats the dealer by:
+            Get 21 points on the player's first two cards without a dealer blackjack
+            Reach a final score higher than the dealer without exceeding 21
+            Let the dealer draw additional cards until their hand exceeds 21
+
+    The Dealer
+        Dealer beats the player by:
+            Getting 21 while the player doesn't have 21
+            The player busts (goes over 21)
+    A draw occurs:
+        Player and the dealer have an equal amount
+
+Architecture:
+    Classes:
+        Player - to store information about the specific player
+            While Playing:
+                Tells dealer if wants to hold or hit
+            After a game is completed:
+                Tells dealer if want to play again
+                If player wants to play again, play
+            Stores cards, wins, loses, and money
+
+        Dealer - to store a Deck and deal cards
+            Asks for cards from Deck class
+            Gives cards to player
+            Stores cards
+
+        Deck - to store cards and distribute the correct number of cards
+            Stores a dictionary of cards
+            Stores number of each card that are taken
+            Gives cards to dealer
+
+        WinChecker - contains the check for wins, so no other class knows about the rules or win conditions of blackjack
+            contains the rules for blackjack
+            takes in the player's cards and the dealer's and compares if the player wins, ties, or loses
+            returns an integer for win, loss, or tie
+
+    I/O:
+        Input:
+            through the main class
+        Output:
+            Classes:
+                TextFormatter:
+                    prints text gi
+
+
+
+

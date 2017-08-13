@@ -28,9 +28,9 @@ class Cylinder(object):
         return (math.pi * self.radius**2) * self.height
 
     def surface_area(self):
-        c = 2*(math.pi * self.radius**2)
-        r = (math.pi * (2*self.radius)) * self.height
-        return r + c
+        circumference = 2*(math.pi * self.radius**2)
+        rectangle = (math.pi * (2*self.radius)) * self.height
+        return rectangle + circumference
 
 
 l = Line((0, 0), (2, 4))
