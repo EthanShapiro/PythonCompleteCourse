@@ -36,4 +36,4 @@ for filename, mime_type in FILES:
 
 if res:
     MIMETYPE = 'application/pdf'
-    res, data = DRIVE.files().export(res['id'], MIMETYPE)
+    res, data = DRIVE.files().export(res['id'], MIMETYPE).execute()

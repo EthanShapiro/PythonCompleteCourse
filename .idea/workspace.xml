@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f45470a7-f370-4f02-b5f1-1aef7ba2ecce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/Cart_templates.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/asyncwrite_threading.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/fibn_argparse.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/lookup_reg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/regtest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/tcpClient.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/tcpServer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/timer_threading.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/udpClient.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/udpServer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Classes/Product Inventory.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/KeyLogger.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Networking/SocketExample.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Networking/SocketPractice/client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Networking/SocketPractice/server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Threading/downloadBar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/My Projects/File_Server_Client/REAL/100MB.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/My Projects/File_Server_Client/REAL/10KB.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/My Projects/File_Server_Client/REAL/10MB.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/My Projects/File_Server_Client/REAL/1MB.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/My Projects/File_Server_Client/REAL/server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/My Projects/File_Server_Client/client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/My Projects/File_Server_Client/server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/My Projects/File_Server_Client/testfile.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Final_Capstone_Projects/unitConverter.py" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Numbers/unitConverter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PythonCompleteCourse.iml" afterPath="$PROJECT_DIR$/.idea/PythonCompleteCourse.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Final_Capstone_Projects/Networking/Google Drive File Transfer.py" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Networking/Google Drive File Transfer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Final_Capstone_Projects/Networking/storage.json" afterPath="$PROJECT_DIR$/Final_Capstone_Projects/Networking/storage.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,24 +14,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="regtest.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/regtest.py">
+      <file leaf-file-name="Google Drive File Transfer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/Google Drive File Transfer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="595">
+              <caret line="38" column="66" lean-forward="false" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lookup_reg.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/lookup_reg.py">
+      <file leaf-file-name="storage.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/storage.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -89,7 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Final Capstone Projects/Classic Algorithms/Collatz Conjecture.py" />
         <option value="$PROJECT_DIR$/Built-in Functions/filter.py" />
         <option value="$PROJECT_DIR$/Final Capstone Projects/Classic Algorithms/Sorting.py" />
         <option value="$PROJECT_DIR$/Final Capstone Projects/Classic Algorithms/BubbleSort.py" />
@@ -110,7 +81,6 @@
         <option value="$PROJECT_DIR$/Final_Capstone_Projects/Numbers/Coin Flip Simulation.py" />
         <option value="$PROJECT_DIR$/Final_Capstone_Projects/Networking/google_simple_api_access.py" />
         <option value="$PROJECT_DIR$/Final_Capstone_Projects/Networking/hello.txt" />
-        <option value="$PROJECT_DIR$/Final_Capstone_Projects/Networking/Google Drive File Transfer.py" />
         <option value="$PROJECT_DIR$/Final_Capstone_Projects/Classic Algorithms/SieveOfEratosthenes.py" />
         <option value="$PROJECT_DIR$/Final_Capstone_Projects/Threading/ProgressBar.py" />
         <option value="$PROJECT_DIR$/Final_Capstone_Projects/Networking/BandwidthMnitor.py" />
@@ -140,10 +110,12 @@
         <option value="$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/Regex_Practice.py" />
         <option value="$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/regtest.py" />
         <option value="$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/lookup_reg.py" />
+        <option value="$PROJECT_DIR$/Final_Capstone_Projects/Networking/storage.json" />
+        <option value="$PROJECT_DIR$/Final_Capstone_Projects/Networking/Google Drive File Transfer.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="2576" />
@@ -165,6 +137,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,13 +154,12 @@
               <item name="PythonCompleteCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonCompleteCourse" type="462c0819:PsiDirectoryNode" />
               <item name="Final_Capstone_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Advanced Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Networking" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,7 +190,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.regtest">
+  <component name="RunManager" selected="Python.Google Drive File Transfer">
+    <configuration name="Google Drive File Transfer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final_Capstone_Projects/Networking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonCompleteCourse" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final_Capstone_Projects/Networking/Google Drive File Transfer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,23 +289,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="downloadBar" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final_Capstone_Projects/Threading" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonCompleteCourse" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final_Capstone_Projects/Threading/downloadBar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="regtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,19 +341,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.downloadBar" />
-      <item index="1" class="java.lang.String" itemvalue="Python.server" />
-      <item index="2" class="java.lang.String" itemvalue="Python.client" />
-      <item index="3" class="java.lang.String" itemvalue="Python.server (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.regtest" />
+      <item index="0" class="java.lang.String" itemvalue="Python.server" />
+      <item index="1" class="java.lang.String" itemvalue="Python.client" />
+      <item index="2" class="java.lang.String" itemvalue="Python.server (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.regtest" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Google Drive File Transfer" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.regtest" />
-        <item index="1" class="java.lang.String" itemvalue="Python.client" />
-        <item index="2" class="java.lang.String" itemvalue="Python.server (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.server" />
-        <item index="4" class="java.lang.String" itemvalue="Python.downloadBar" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Google Drive File Transfer" />
+        <item index="1" class="java.lang.String" itemvalue="Python.regtest" />
+        <item index="2" class="java.lang.String" itemvalue="Python.client" />
+        <item index="3" class="java.lang.String" itemvalue="Python.server (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.server" />
       </list>
     </recent_temporary>
   </component>
@@ -399,13 +371,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1456" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31849578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3179449" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -432,13 +404,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Files/questions.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="58" lean-forward="false" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Files/Quiz Maker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="602">
@@ -485,32 +450,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/client_secrets.json" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/pydoc.py" />
-    <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/client_secret.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="41" lean-forward="true" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/google_simple_api_access.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/googleapiclient/discovery.py" />
     <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/hello.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/Google Drive File Transfer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="38" column="56" lean-forward="false" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -723,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -731,17 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="95" lean-forward="true" selection-start-line="16" selection-start-column="95" selection-end-line="16" selection-end-column="95" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/lookup_reg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -749,6 +680,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Advanced Python/lookup_reg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/google_simple_api_access.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/client_secret.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="267" lean-forward="false" selection-start-line="0" selection-start-column="175" selection-end-line="0" selection-end-column="267" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/googleapiclient/discovery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="219" column="7" lean-forward="true" selection-start-line="219" selection-start-column="7" selection-end-line="219" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/storage.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final_Capstone_Projects/Networking/Google Drive File Transfer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="38" column="66" lean-forward="false" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
           <folding />
         </state>
       </provider>
